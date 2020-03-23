@@ -18,7 +18,7 @@ public class NewClass {
 
   
   public void terribleCode(Integer param){
-    
+    param = 5;
   }
 
   public static void triggerBasicAuraHandledError() {
